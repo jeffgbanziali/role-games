@@ -1,11 +1,24 @@
 ﻿using System;
 namespace role_games
 {
-	public class Sorcerer
+	public class Sorcerer : Personnaly
 	{
-		public Sorcerer()
+		public Sorcerer(string name) : base (name)
+
+
+
+
 		{
-		}
+
+
+            {
+
+                devicePoints = 80;
+                damageMin = 10;
+                damageMax = 25;
+
+            }
+        }
 	}
 }
 

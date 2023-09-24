@@ -1,0 +1,15 @@
+/Users/jeffflaj/Projects/role-games/role-games/bin/Debug/net7.0/role-games
+/Users/jeffflaj/Projects/role-games/role-games/bin/Debug/net7.0/role-games.deps.json
+/Users/jeffflaj/Projects/role-games/role-games/bin/Debug/net7.0/role-games.runtimeconfig.json
+/Users/jeffflaj/Projects/role-games/role-games/bin/Debug/net7.0/role-games.dll
+/Users/jeffflaj/Projects/role-games/role-games/bin/Debug/net7.0/role-games.pdb
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.csproj.AssemblyReference.cache
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.AssemblyInfoInputs.cache
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.AssemblyInfo.cs
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.csproj.CoreCompileInputs.cache
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.dll
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/refint/role-games.dll
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.pdb
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/role-games.genruntimeconfig.cache
+/Users/jeffflaj/Projects/role-games/role-games/obj/Debug/net7.0/ref/role-games.dll
